@@ -1,0 +1,12 @@
+# Auto generated during deployment
+requirements.txt
+.venv
+.env
+
+# Teams Toolkit
+env
+
+appPackage/build
+.deployment
+
+__pycache__
